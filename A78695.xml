@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration concerning leavies. Charles R. Our expresse pleasure is, that this our declaration be published in all churches and chappells within the kingdom of England and dominion of Wales, by the parsons, vicars or curates of the same.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78695</idno>
+            <idno type="STC">Wing C2190</idno>
+            <idno type="STC">Thomason E153_24</idno>
+            <idno type="STC">ESTC R210720</idno>
+            <idno type="EEBO-CITATION">99869487</idno>
+            <idno type="PROQUEST">99869487</idno>
+            <idno type="VID">156809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78695)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156809)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration concerning leavies. Charles R. Our expresse pleasure is, that this our declaration be published in all churches and chappells within the kingdom of England and dominion of Wales, by the parsons, vicars or curates of the same.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: "A new declaration of the Lords and Commons in Parliament, in answer to his Majesties letter dated the fourteenth of Iune" (Wing E1666).</note>
+                  <note>In this edition, the second "I" in Roman numeral imprint date is printed below the "n" in "John".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term>New declaration of the Lords and Commons in Parliament in answer to His Majesties letter, dated the fourteenth of June.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156809:1" rendition="simple:additions"/>
+            <p>HIS MAjESTIES DECLARATION CONCERNING LEAVIES.</p>
+            <p>
+               <hi>Charles R.</hi>
+            </p>
+            <p>OUr expreſſe Pleaſure is, That this Our Declaration be Publiſhed in all Churches and Chappells within the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> by the Parſons, Vicars or Curates of the ſame.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. MDCXLII.</p>
+         </div>
+         <div type="royal_blazon">
+            <pb facs="tcp:156809:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156809:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> His MAjESTIES Anſwer to a Printed Paper, intituled, A new Declaration of the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, of the 21. of June 1642. in Anſwer to his Majeſties Letter da<g ref="char:EOLhyphen"/>ted the 14 of June, and ſent to the Lord Major, Aldermen, and Sheriffes of the City of LONDON.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T ſeems by a new De<g ref="char:EOLhyphen"/>claration of the <hi>21</hi> of Iune, in anſwer to Our Letter of the <hi>14</hi> of the ſame month to the Lord Major of <hi>London,</hi> that the Lords and Commons in Parliament have much more leaſure then they pre<g ref="char:EOLhyphen"/>tend, or that thoſe Perſons whom We
+<pb n="2" facs="tcp:156809:3"/>have before deſcribed in Our former An<g ref="char:EOLhyphen"/>ſwers and Declarations, and of whom onely We would be underſtood to ſpeak, think ſuch Declarations and Votes to be ſuch unreſiſtable Engines of Batterie a<g ref="char:EOLhyphen"/>gainſt Vs and the Law, that no ſtrength can oppoſe them: And therefore though they will take notice from whence that Letter came, they will vouchſafe it no other mention, but <hi>of a Paper</hi> (as if found by chance) inſcribed, <hi>To Our truſtie and welbeloved, &amp;c.</hi> And it is wonder, that ſince they have uſurped the Supream Power to themſelves, they have not ta<g ref="char:EOLhyphen"/>ken upon them the Supream Style too, and directed this very new Declaration, <hi>To their truſtie and welbeloved, their Subjects of the Citie of London;</hi> For it is too great and palpable a ſcorn to perſwade them to take up Arms againſt Our Perſon, un<g ref="char:EOLhyphen"/>der colour of being loving Subjects to Our Office, and to Deſtroy Vs, that they may Preſerve the King.</p>
+            <p>They are offended that We ſhould be<g ref="char:EOLhyphen"/>leeve, That their end of perſwading Our
+<pb n="3" facs="tcp:156809:3"/>Subjects to raiſe Horſe, and to furniſh Money upon pretence of a Guard for the Parliament, is in truth to imploy thoſe Horſe, Men and Money againſt Vs: Let the reaſons of Our belief be never ſo ſtrong, and their Actions never ſo evident to compell all other men to beleeve ſo too, The Lords and Commons do declare (think what you will, and ſee what you can) <hi>That the Deſigne of thoſe Propoſiti<g ref="char:EOLhyphen"/>ons for raiſing Men, Horſe and Money, is to maintain the Proteſtant Religion, The Kings Authority and Perſon in His Royall Dignity, The free courſe of Juſtice, The Laws of the Land, The Peace of the Kingdom, and Priviled<g ref="char:EOLhyphen"/>ges of Parliament againſt any Force which ſhall oppoſe them:</hi> And this all men are bound to beleeve, though they ſee the Prote<g ref="char:EOLhyphen"/>ſtant Religion, and the Profeſſors there<g ref="char:EOLhyphen"/>of miſerably reproached, and in danger of being deſtroyed by a vicious and Ma<g ref="char:EOLhyphen"/>lignant Party of Browniſts, Anaba<g ref="char:EOLhyphen"/>ptiſts, and other Sectaries, (the princi<g ref="char:EOLhyphen"/>pal ring-leaders of whom have too great a power, even with ſome Members in
+<pb n="4" facs="tcp:156809:4"/>both Our Houſes of Parliament) Our Authority deſpiſed, and, as much as in them lies, taken from Vs, and reviled in Pulpits and Preſſes by perſons immedi<g ref="char:EOLhyphen"/>ately in their Protection, and of their re<g ref="char:EOLhyphen"/>commendation, and Our Perſon driven away by Tumults and rude multitudes, againſt whom We can have no Iuſtice; The courſe of Iuſtice interrupted and ſtopped by Orders and Injunctions ne<g ref="char:EOLhyphen"/>ver heard of till this Parliament; The Laws of the Land trampled under foot and fruſtrated, and new Laws attempt<g ref="char:EOLhyphen"/>ed to be made and impoſed upon Our Subjects without and againſt Our con<g ref="char:EOLhyphen"/>ſent; The Peace of the Kingdom ſhaken and frighted away by diſcountenancing the Laws, abſolving (as much as in them lies) the people from the Rules of Government or Obedience, and even de<g ref="char:EOLhyphen"/>claring a War againſt Vs and the Laws of the Land; And laſily, The Privi<g ref="char:EOLhyphen"/>ledges of Parliament ſo far extended, as if to the bare ſound of <hi>Priviledge of Parli<g ref="char:EOLhyphen"/>ament, The Liberty and Property of the
+<pb n="5" facs="tcp:156809:4"/>Subject,</hi> the dignity and certainty of the Law were in ſuch ſubjection, that they may firſt make what Orders they pleaſe, and in what caſes they pleaſe; And who<g ref="char:EOLhyphen"/>ſoever diſputes thoſe Orders, and ſub<g ref="char:EOLhyphen"/>mits not to thoſe Votes, breaks their Priviledges, and whoſoever breaks their Priviledges is an Enemie to the Com<g ref="char:EOLhyphen"/>mon-wealth, and worthy of ſuch other Attributes (either of favouring the Re<g ref="char:EOLhyphen"/>bellion in <hi>Ireland,</hi> or advancing the War here) as are moſt likely to render that perſon ſuſpected or odious to the People: If in truth this be evidently and demon<g ref="char:EOLhyphen"/>ſtrably the caſe, ſuch Declarations will no more gain credit with, or longer miſ-lead Our Subjects, then if they ſhould tell them, That We are perſonal<g ref="char:EOLhyphen"/>ly with them in <hi>London,</hi> when all men ſee Vs here at <hi>York.</hi>
+            </p>
+            <p>As they have Declared (the beſt Ar<g ref="char:EOLhyphen"/>gument or Evidence you are to look for) that all that they do is lawfull, becauſe they do it; ſo they proceed, by the ſame power, to aſſure thoſe, who are apt to
+<pb n="6" facs="tcp:156809:5"/>be deceived by them, that the Force al<g ref="char:EOLhyphen"/>ready attending Vs (they would certain<g ref="char:EOLhyphen"/>ly do otherwiſe if they did really beleeve ſuch Force to be about Vs) and the Preparation We are making, do evi<g ref="char:EOLhyphen"/>dently appear to be intended for ſome great and extraordinary Deſigne, and do juſtifie their former Votes of Our intention of Leavying Warre againſt Our Parliament: And they have at laſt given ſome Reaſon for that Vote and Declaration; They finde by Our ſe<g ref="char:EOLhyphen"/>verall Declarations that We intend force againſt thoſe who ſhall ſubmit to the Ordinance of the <hi>Militia,</hi> and that We intend to make an attempt upon <hi>Hull:</hi> In both which Caſes they are pleaſed to declare, <hi>That whatſoever violence ſhall be uſed either againſt thoſe who exerciſe this <hi>Mili<g ref="char:EOLhyphen"/>tia,</hi> or againſt <hi>Hull,</hi> they cannot but take it as done againſt the Parliament.</hi> We are behold<g ref="char:EOLhyphen"/>ing to them that they have explained to all Our good Subjects the meaning of their Charge againſt Vs; That by Our intention of making War againſt Our
+<pb n="7" facs="tcp:156809:5"/>Parliament no more is pretended to be meant, but Our Reſolution not to ſub<g ref="char:EOLhyphen"/>mit to the high injuſtice and indignity of the Ordinance &amp; the buſineſſe of <hi>Hull.</hi> We have never concealed Our intentions in either of thoſe particulars (We wiſh they would deal as cleerly with Vs) but have alwayes and do now declare, That that pretended Ordinance is againſt the Law of the Land, againſt the Liberty and Property of the Subject, deſtructive to Soveraignty, and therefore not conſi<g ref="char:EOLhyphen"/>ſtent with the very Conſtitution and Eſſence of the Kingdom, and to the Right and Priviledge of Parliament; That We are bound by Our Oath (and all Our Subjects are bound by theirs of Alleagiance and Supreamacie, and their own Proteſtation lately taken, to aſſiſt Vs) to oppoſe that Ordinance which is put already in execution againſt Vs, not onely by Training and Arming Our Subjects; but by forceably remo<g ref="char:EOLhyphen"/>ving the Magazines from the places truſted by the Counties, to their Own
+<pb n="8" facs="tcp:156809:6"/>houſes, and guarding it there with Arm<g ref="char:EOLhyphen"/>ed men; whither it will be next removed and how uſed by ſuch perſons We know not. That the keeping Vs out of <hi>Hull</hi> by Sir <hi>John Hotham</hi> was an Act of high Treaſon againſt Vs, and the taking away Our Magazine and Munition from Vs was an Act of Violence upon Vs (by what hands or by whoſe directi<g ref="char:EOLhyphen"/>on ſoever it was done and in both Caſes, by the help of God and the Law, We will have Iuſtice or loſe Our life in the requi<g ref="char:EOLhyphen"/>ring it, the which We do not value at that rate as to preſerve it with the infa<g ref="char:EOLhyphen"/>my of ſuffering Our Self to be rob'd and ſpoiled of that dignity We were borne to. And if it be poſſible for Our good Sub<g ref="char:EOLhyphen"/>jects to beleeve, that ſuch a defence of Our Self, with the utmoſt power and ſtrength We can raiſe, <hi>is making a War againſt the Parliament,</hi> We do not doubt (however it ſhall pleaſe God to diſpoſe of Vs in that Contention) but the Iu<g ref="char:EOLhyphen"/>ſtice of Our Cauſe will at the laſt prevail againſt thoſe few Malignant Spirits
+<pb n="9" facs="tcp:156809:6"/>who for their own ends and Ambitious deſignes have ſo miſſed and corrupted the underſtandings of Our People, and that both Our houſes of Parlia<g ref="char:EOLhyphen"/>ment will in ſhort time diſcerne by their own obſervation and the Information We ſhall ſpeedily give them, how neer this Flouriſhing Kingdom is brought to ruine and confuſion by theſe Perſons.</p>
+            <p>And ſince neither Our Declaration, nor the Teſtimony of ſo many of Our Lords now with Vs can procure credit with theſe Men, but that they proceed to leavy horſe, and to raiſe Money and Arms againſt Vs; We are not to be bla<g ref="char:EOLhyphen"/>med, if (after ſo many gracious expoſtu<g ref="char:EOLhyphen"/>lations with them upon undeniable Principles of Law and Reaſon, which they anſwer onely by voting that which We ſay to be neither law nor reaſon, and ſo proceed actually to levy War upon Vs to juſtifie that which cannot be other<g ref="char:EOLhyphen"/>wiſe defended) at laſt We make ſuch Pro<g ref="char:EOLhyphen"/>viſion, that as We have been driven from <hi>London,</hi> and kept from <hi>Hull,</hi> We may not
+<pb n="10" facs="tcp:156809:7"/>be ſurprized at <hi>York;</hi> but in a condition to reſiſt and bring to juſtice thoſe Men, who would perſwade Our People, that their Religion is in danger, becauſe We will not conſent it ſhall be in their power to alter it by their Votes; or their Liberty in danger, becauſe We will allow no Iudge of that Liberty but the known Law of the Land: yet what ever Pro<g ref="char:EOLhyphen"/>viſion We ſhall be compelled to make for Our Security, We will be ready to lay down as ſoon as they ſhall have revo<g ref="char:EOLhyphen"/>ked the Orders by which they have made Leavies, and ſubmit thoſe perſons who have detained Our Towns, carried away Our Arms, and put the <hi>Militia</hi> in execution contrary to Our Proclama<g ref="char:EOLhyphen"/>tion, to that Triall of their Innocence the Law directs, and to which they were born. If this be not ſubmitted to, We ſhall with as good a Conſcience (and We beleeve We ſhall not want the affections of Our good Subjects to that end) pro<g ref="char:EOLhyphen"/>ceed againſt thoſe who ſhall preſume to exerciſe that pretended Ordinance for the
+<pb n="11" facs="tcp:156809:7"/>
+               <hi>Militia,</hi> and the other who keep Our Town of <hi>Hull</hi> from Vs, as We would reſiſt perſons who came to take away Our life or Our Crown from Vs. And therefore We ſhall again remember and require Our Citie of <hi>London</hi> to obey Our former Commands, and not to be miſſed by the Orations of thoſe Men (who are made deſperate by their Fortunes, or their Fortunes by them) who tell them their Religion, Libertie, and Pro<g ref="char:EOLhyphen"/>pertie is to be preſerved no other way but by their diſloyaltie to Vs; That they are now at the brink of the river, and may draw their Swords, when nothing pur<g ref="char:EOLhyphen"/>ſues them but their own evil conſciences. Let them examine what excellent fruits of Religion the lives of thoſe Men have brought forth, and what great Advan<g ref="char:EOLhyphen"/>cers they have been of the Publike Li<g ref="char:EOLhyphen"/>bertie, and Property; How long they have had thoſe Opinions they would ruine them to defend, and how they came to thoſe Opinions; Let them con<g ref="char:EOLhyphen"/>ſider whether their Eſtates come to them,
+<pb n="12" facs="tcp:156809:8"/>and are ſetled upon them by Orders of both Houſes, or by that Law which We Defend; What Security they can have to enjoy their Own, when they have helped to Rob Vs; And what an happy Concluſion that Warre is like to have, which is raiſed to oppreſſe their Sove<g ref="char:EOLhyphen"/>raigne; That the Wealth and Glory of their Citie is not like to be deſtroyed any other way, but (and that way inevita<g ref="char:EOLhyphen"/>bly it muſt) by Rebelling againſt Vs; nor their Wives and Children to be expo<g ref="char:EOLhyphen"/>ſed to violence and villanie, but by thoſe who make their Appetite and Will the Meaſure and Guide to all their Actions. Let them not fancie to themſelves Me<g ref="char:EOLhyphen"/>lancholike apprehenſions, which are ca<g ref="char:EOLhyphen"/>pable of no ſatisfaction, but let them ſeriouſly conſider what ſecurity they can have, that they have not under Vs or been offered by Vs; And whether the Do<g ref="char:EOLhyphen"/>ctrine theſe men teach, and would have them defend, doth not deſtroy the foun<g ref="char:EOLhyphen"/>dations upon which their ſecuritie is built.</p>
+            <pb n="13" facs="tcp:156809:8"/>
+            <p>And We do laſtly declare again, and publiſh to all the World; That We ſhall proceed againſt all Perſons whatſoever that ſhall aſſiſt thoſe Leavies, by furniſh<g ref="char:EOLhyphen"/>ing of Horſe, Money and Plate, as againſt the Diſturbers of the Publique Peace, and the Authors of thoſe Diſtractions which threaten the Ruine of Vs and this Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
